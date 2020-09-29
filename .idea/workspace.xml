@@ -16,41 +16,37 @@
     <list default="true" id="5f5985ef-cc2d-48d5-bde6-8c81e240c6ef" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/createhotels/CreateHotelTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/createhotels/CreateHotelTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/retrievehotels/RetrieveHotelsErrorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/retrievehotels/RetrieveHotelsErrorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/utils/HeaderUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/utils/HeaderUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/utils/JsonUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/utils/JsonUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/utils/RestUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/restassured/tajawal/utils/RestUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/11cef079-045c-48b0-8d27-9778db15d0d0-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/15e9fd00-415d-4c85-bc1d-72a2e11a0752-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1673433b-45d4-4644-a359-78e15dbe307a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/18596796-39ad-41f5-84bd-c06cd4a15485-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/19c84be7-ccee-4e0c-92a2-9f3780aa2375-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1adf208a-b1f1-4942-b5cc-c4dffd6a8aea-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/1fd91078-9aca-430f-bd2f-99c103d71e97-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/3e848406-6b83-494a-b809-29ce57d717d9-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/3f812c5f-f462-4987-8b6d-ce43d6447ec4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/44dd411a-6006-48d0-b394-da01eb119a49-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5beb0be1-1c8e-43b1-bd20-2e948928beb1-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/64884769-db8d-4a6a-9937-fd57009ff78d-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6a8fecbe-4451-4af8-8999-92d93eef9037-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6d096bdf-4b6a-4e86-b827-a8d388c76f01-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/6f15e404-557b-4d8e-a0e7-ad2f81f465eb-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/79e130f2-0d50-4317-910d-fcf7de58c973-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/8da695d6-5da7-4940-bcad-8f26a3815c34-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/926d1455-e942-4070-9b48-4a558038d19b-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/983ee18d-2b8c-4dda-88c1-7311d44cf0c7-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9c75c69b-36ae-4ac0-96ff-391a1bb3e66c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9ca7dfb1-4d49-4198-9f02-53c52b238725-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ac9854af-e4e0-4bbb-be60-6a300db1113c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/b04ec2d6-75ef-4ace-a99a-e61ea401e47c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d27bbc49-6eb9-418e-97f8-f31415719755-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d3d406a0-cf5d-4ba8-b1ee-072867485e53-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d475536e-17ca-47d1-a20e-9c810623cca4-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d73d82f8-d5e3-4cff-9601-86bfc588c73d-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e107307d-5f36-4cdd-ac48-34d7b03ba63c-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/0ad086b9-8728-4dd1-98f6-ef0d34bae1fd-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/123ee332-6f33-4cc0-8a27-46fbc3747181-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/406c717b-40ae-43aa-a595-9accea1dcbfc-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/457ac641-bb97-4010-ac0a-97ad1f2128a2-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/4bc01f13-2b88-4168-b19d-0ebd325e4cb5-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/50964638-7397-4bbd-b3e8-36337aa0eb4b-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/51e756a9-12a4-4861-bf18-31a6a932fadc-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/56575b73-c858-41a5-9cd0-5472e7e4d95e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/58ba4f39-0718-43b6-bad8-65ca7b1359da-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/6f94e8ea-4afc-4897-8da6-577f9ff54b3a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/709a8572-6f74-4f8d-a1a9-c27d8403c673-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/74c2fad9-30a4-4b51-b0ef-dff87cef98f5-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7d09cb06-7635-4b66-b818-3078fa5ff3db-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/7e0d9d9b-f024-4e1d-bc50-47a5d6dfa7de-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/8ccd3c09-f5e6-4a70-b7fb-9e589369c2e6-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/8e5f3dfe-c8a8-4404-a640-3a22601639b9-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b125f975-46d1-4eb6-90cb-1e714e072303-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/b71c06b0-146c-47ba-a358-d737f042e0f4-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/bb609931-14a1-41d0-961c-f320c153c9f7-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/be5618ef-b056-456d-837e-e4133d09e23a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c3314779-5827-4422-99ca-0dfdd8d1ee7f-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c3cf43b7-4fd7-4091-bc15-5b50fca2ad82-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c44aeb93-5775-4509-b305-350211d60f74-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/c811a5b5-8e2a-40fb-be66-23d305c547df-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/d791af66-cb20-4824-9744-097808575c20-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/df252eab-8451-4c3e-81ab-b15bbd6b223e-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/e95a8240-c2f7-4d1f-9902-3cbf1727433a-container.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/allure-results/f92c4261-aa48-4be6-b7f4-102b582ca9f4-result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/hotels-api-testing-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/hotels-api-testing-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-09-29T16-13-18_501.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-09-30T00-27-17_683.dumpstream" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.xml" afterDir="false" />
@@ -59,12 +55,6 @@
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.createhotels.CreateHotelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.createhotels.CreateHotelTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tajawal-api-testing-1.0-SNAPSHOT.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/tests/createhotels/CreateHotelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/tests/createhotels/CreateHotelTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/tests/retrievehotels/RetrieveHotelsErrorTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/tests/retrievehotels/RetrieveHotelsErrorTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/utils/HeaderUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/utils/HeaderUtils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/utils/JsonUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/utils/JsonUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/utils/RestUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/restassured/tajawal/utils/RestUtils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

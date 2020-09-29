@@ -1,5 +1,5 @@
 -------------------------------------------------------------------------------
 Test set: com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.981 s - in com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest
-shouldGetValidErrorMessageForInvalidMethod  Time elapsed: 6.341 s
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.938 s - in com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest
+shouldGetValidErrorMessageForInvalidMethod  Time elapsed: 6.066 s
