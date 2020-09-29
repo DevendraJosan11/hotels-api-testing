@@ -13,51 +13,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f5985ef-cc2d-48d5-bde6-8c81e240c6ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/0ec6da6a-eae2-42bd-9f2a-80fdcd541772-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/2aa2be02-9594-4923-b8ed-f35f0a6589fc-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/38c893ad-a1b1-4b2d-aba5-ec9c4d2cae08-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/3995ae9c-4a34-42f6-b849-f781d50ca25f-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/4b6d4040-5607-49e1-ab11-047b0e3eac7a-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5080b473-8c39-4459-b063-47d77b6b6e57-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/51335c45-70ef-4f47-ad28-600263bb91d9-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5364d100-c117-4065-b394-c831d90b1177-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/5453d494-08bc-47f5-a42a-d76b630db737-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/629eb8f8-ea72-4e91-853b-24a1c6e0aa61-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/7b913cd9-08e5-46bd-9367-02727ccd7f28-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/8c0c77ea-dd92-4028-ac56-ba65413e7d8c-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/91d19463-50a6-452c-a0d7-1a3b123f0ee4-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/930ff362-f4c3-40cb-918a-6a0fcd826e0f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/93f146c7-5826-463c-b7c1-860aa0944b13-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/982dfdd2-4955-4172-a67e-59bef5550f2e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/9cae466e-d5fb-4376-a40c-31eebb181cee-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/af770ceb-d833-40f2-b97d-0f206eaab1d5-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ba146f15-2fda-440b-92b7-554c321d7e70-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/ccb7fd5d-3e56-4622-87a3-642b37a26a98-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/cf2fbbdf-a7e7-42bb-935f-559c5e11d12e-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d6a9ad3f-43c9-48ed-91be-c2f179a66f56-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/d8c52477-ac0e-41cf-abe4-cbe56ab6533b-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/de68baf6-8663-4373-95fb-a1bccec067f7-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/df991244-4693-4c7d-a806-7426340d056f-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e2606d62-a976-45f8-b7cb-301647f8af39-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e315cb54-5c5c-49d7-9aa9-55c7cf60586c-container.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/allure-results/e4021a75-f2cb-4e3f-87cf-479118877f67-result.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/2020-09-29T15-08-00_011.dumpstream" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.createhotels.CreateHotelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.createhotels.CreateHotelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.createhotels.CreateHotelTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/tajawal-api-testing-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/tajawal-api-testing-1.0-SNAPSHOT.jar" afterDir="false" />
-    </list>
+    <list default="true" id="5f5985ef-cc2d-48d5-bde6-8c81e240c6ef" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +52,7 @@
       <recent name="com.restassured.tajawal" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.com.restassured.tajawal.tests in tajawal-api-testing">
+  <component name="RunManager" selected="JUnit.com.restassured.tajawal.tests in hotels-api-testing">
     <configuration name="CreateHotelErrorTest.shouldGetValidErrorMessageForInvalidMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="tajawal-api-testing" />
       <extension name="coverage">
@@ -145,18 +101,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RetrieveHotelsErrorTest.shouldGetErrorForInvalidQueryParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="tajawal-api-testing" />
+    <configuration name="com.restassured.tajawal.tests in hotels-api-testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="hotels-api-testing" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.restassured.tajawal.tests.retrievehotels.*" />
+          <option name="PATTERN" value="com.restassured.tajawal.tests.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests.retrievehotels" />
-      <option name="MAIN_CLASS_NAME" value="com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest" />
-      <option name="METHOD_NAME" value="shouldGetErrorForInvalidQueryParams(java.lang.String)" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -177,11 +131,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.com.restassured.tajawal.tests in hotels-api-testing" />
         <item itemvalue="JUnit.com.restassured.tajawal.tests in tajawal-api-testing" />
         <item itemvalue="JUnit.RetrieveHotelsErrorTest.shouldGetErrorForInvalidHeader (1)" />
         <item itemvalue="JUnit.RetrieveHotelsErrorTest.shouldGetErrorForInvalidHeader" />
         <item itemvalue="JUnit.CreateHotelErrorTest.shouldGetValidErrorMessageForInvalidMethod" />
-        <item itemvalue="JUnit.RetrieveHotelsErrorTest.shouldGetErrorForInvalidQueryParams" />
       </list>
     </recent_temporary>
   </component>
