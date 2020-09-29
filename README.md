@@ -1,16 +1,16 @@
 # Tajawal-api-testing-Code-Challenge
 This is RestAssured based api testing sample project for testing Tajawal API's.
 
-### Steps:
+### _Steps:
 #### Build
 - Clone project : git clone https://github.com/DevendraJosan11/hotels-api-testing 
 - Import as maven project into IntelliJ IDE.
-- Navigate to project directory and Build project by running following command in terminal : **mvn clean install**.
+- Navigate to project directory and Build project by running following command in terminal : **_mvn clean install**.
 
 #### Execution
-- To run test class : Right click on test class name or within test class and select **Run ClassName**.
-- To run individual test : Right click on test case name and select **Run TestName**
+- To run test class : Right click on test class name or within test class and select **_Run ClassName**.
+- To run individual test : Right click on test case name and select **_Run TestName**
 - To run all tests : Right click on tests(**com.restassured.tajawal.tests**) and select **Run 'Test in 'com.restassured.tajawal.tests''**
     
 #### Generate Reports:
-- Run following command to view allure reports: **allure serve**.
+- Run following command to view allure reports: **_allure serve**.
