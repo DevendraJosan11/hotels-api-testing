@@ -4,14 +4,11 @@ import com.restassured.tajawal.tests.BaseTest;
 import io.qameta.allure.Epic;
 import io.qameta.allure.Feature;
 import org.apache.http.HttpStatus;
-import org.junit.jupiter.api.Disabled;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.NullAndEmptySource;
-import org.junit.jupiter.params.provider.NullSource;
 import org.junit.jupiter.params.provider.ValueSource;
-import org.springframework.beans.factory.annotation.Value;
 
 @Epic("Retrieve Hotel Details")
 @Feature("Retrieve Hotel Details")
@@ -19,7 +16,7 @@ import org.springframework.beans.factory.annotation.Value;
 public class RetrieveHotelsErrorTest extends BaseTest {
 
     @Test
-    @DisplayName("should get valid error for invalid method")
+    @DisplayName("should get error for invalid method")
     void shouldGetErrorForInvalidMethod() {
         retrieveHotelSteps
                 .givenIHaveRetrieveHotelEndpoint()
@@ -27,7 +24,7 @@ public class RetrieveHotelsErrorTest extends BaseTest {
                 .thenIVerifyError(HttpStatus.SC_METHOD_NOT_ALLOWED);
     }
 
-    //@Disabled("Service should though bad request error in case of invalid header or empty header value")
+    //@Disabled("Service should throw bad request error in case of invalid header or empty header value")
     @ValueSource(strings = {"application/xml","application/javascript"})
     @NullAndEmptySource
     @DisplayName("should get valid error for invalid header")

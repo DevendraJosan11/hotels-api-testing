@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>tajawal-api-testing</artifactId>
+    <artifactId>hotels-api-testing</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
@@ -26,7 +26,6 @@
         <maven.compiler.plugin.version>3.7.0</maven.compiler.plugin.version>
         <assertj.version>3.11.1</assertj.version>
         <hamcrest.all.version>1.3</hamcrest.all.version>
-        <jacksondatabind.version>2.10.2</jacksondatabind.version>
         <lombok.version>1.18.6</lombok.version>
         <maven.compiler.target>${java.version}</maven.compiler.target>
         <maven.compiler.source>${java.version}</maven.compiler.source>
@@ -103,7 +102,6 @@
             </plugin>
         </plugins>
     </build>
-
     <dependencies>
         <dependency>
             <groupId>io.rest-assured</groupId>
@@ -162,7 +160,5 @@
             <artifactId>jackson-datatype-jsr310</artifactId>
             <version>2.9.9</version>
         </dependency>
-
     </dependencies>
-
 </project>

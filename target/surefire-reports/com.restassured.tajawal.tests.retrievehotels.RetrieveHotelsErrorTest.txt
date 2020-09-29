@@ -1,9 +1,9 @@
 -------------------------------------------------------------------------------
 Test set: com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest
 -------------------------------------------------------------------------------
-Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.772 s - in com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest
-shouldGetErrorForInvalidMethod  Time elapsed: 1.133 s
-shouldGetErrorForInvalidQueryParams{String}[1]  Time elapsed: 1.399 s
-shouldGetErrorForInvalidQueryParams{String}[2]  Time elapsed: 1.041 s
-shouldGetErrorForInvalidQueryParams{String}[3]  Time elapsed: 1.312 s
-shouldGetErrorForInvalidQueryParams{String}[4]  Time elapsed: 1.027 s
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.172 s - in com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest
+shouldGetErrorForInvalidMethod  Time elapsed: 1.048 s
+shouldGetErrorForInvalidQueryParams{String}[1]  Time elapsed: 0.944 s
+shouldGetErrorForInvalidQueryParams{String}[2]  Time elapsed: 1.732 s
+shouldGetErrorForInvalidQueryParams{String}[3]  Time elapsed: 1.016 s
+shouldGetErrorForInvalidQueryParams{String}[4]  Time elapsed: 1.08 s

@@ -30,11 +30,4 @@ public class HeaderUtils {
         headers = new Headers(defaultHeaders);
         return headers;
     }
-
-    public HeaderUtils modifyHeader(String headerName, String replacementValue) {
-        defaultHeaders.remove(headers.get(headerName));
-        defaultHeaders.add(new Header(headerName,replacementValue));
-        headers = new Headers(defaultHeaders);
-        return this;
-    }
 }
