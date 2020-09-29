@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5f5985ef-cc2d-48d5-bde6-8c81e240c6ef" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.1\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1i86S2omIlqsFkjAQ1j5MWTZLCf" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.restassured.tajawal.tests.createhotels" />
+      <recent name="com.restassured.tajawal.tests.retrievehotels" />
+      <recent name="com.restassured.tajawal" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.com.restassured.tajawal.tests in tajawal-api-testing">
+    <configuration name="CreateHotelErrorTest.shouldGetValidErrorMessageForInvalidMethod" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tajawal-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.tajawal.tests.createhotels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests.createhotels" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.tajawal.tests.createhotels.CreateHotelErrorTest" />
+      <option name="METHOD_NAME" value="shouldGetValidErrorMessageForInvalidMethod" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetrieveHotelsErrorTest.shouldGetErrorForInvalidHeader (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tajawal-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.tajawal.tests.retrievehotels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests.retrievehotels" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest" />
+      <option name="METHOD_NAME" value="shouldGetErrorForInvalidHeader(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetrieveHotelsErrorTest.shouldGetErrorForInvalidHeader" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tajawal-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.tajawal.tests.retrievehotels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests.retrievehotels" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest" />
+      <option name="METHOD_NAME" value="shouldGetErrorForInvalidHeader" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RetrieveHotelsErrorTest.shouldGetErrorForInvalidQueryParams" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tajawal-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.tajawal.tests.retrievehotels.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests.retrievehotels" />
+      <option name="MAIN_CLASS_NAME" value="com.restassured.tajawal.tests.retrievehotels.RetrieveHotelsErrorTest" />
+      <option name="METHOD_NAME" value="shouldGetErrorForInvalidQueryParams(java.lang.String)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.restassured.tajawal.tests in tajawal-api-testing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="tajawal-api-testing" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restassured.tajawal.tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restassured.tajawal.tests" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.com.restassured.tajawal.tests in tajawal-api-testing" />
+        <item itemvalue="JUnit.RetrieveHotelsErrorTest.shouldGetErrorForInvalidHeader (1)" />
+        <item itemvalue="JUnit.RetrieveHotelsErrorTest.shouldGetErrorForInvalidHeader" />
+        <item itemvalue="JUnit.CreateHotelErrorTest.shouldGetValidErrorMessageForInvalidMethod" />
+        <item itemvalue="JUnit.RetrieveHotelsErrorTest.shouldGetErrorForInvalidQueryParams" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f5985ef-cc2d-48d5-bde6-8c81e240c6ef" name="Default Changelist" comment="" />
+      <created>1601276870888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601276870888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1601311624134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="92" y="92" width="1182" height="544" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.728@0.0.1366.728" timestamp="1601311624134" />
+    <state x="438" y="67" key="#xdebugger.evaluate" timestamp="1601324657648">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="438" y="67" key="#xdebugger.evaluate/0.0.1366.728@0.0.1366.728" timestamp="1601324657648" />
+    <state x="463" y="81" key="FileChooserDialogImpl" timestamp="1601360330728">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="81" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1601360330728" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1601379283655">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1601379283655" />
+    <state x="348" y="68" key="NewModule_or_Project.wizard" timestamp="1601360352336">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="68" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1601360352336" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1601380462446">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1601380462446" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1601380428385">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1601380428385" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/retrievehotels/RetrieveHotelsErrorTest.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/retrievehotels/RetrieveHotelsErrorTest.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/tajawal/apicalls/ApiCalls.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/tajawal/steps/RetrieveHotelSteps.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/tajawal/steps/RetrieveHotelSteps.java</url>
+          <line>47</line>
+          <properties>
+            <option name="lambda-ordinal" value="0" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restassured/tajawal/tests/createhotels/CreateHotelTest.java</url>
+          <line>26</line>
+          <properties class="com.restassured.tajawal.tests.createhotels.CreateHotelTest" method="shouldGetSuccessForValidRequests">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
