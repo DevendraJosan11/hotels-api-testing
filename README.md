@@ -5,7 +5,7 @@ This is RestAssured based api testing project for testing Tajawal API's
 #### Build
 - Clone project : git clone https://github.com/DevendraJosan11/hotels-api-testing 
 - Import as maven project into IntelliJ IDE.
-- Build project by running following command in terminal : **mvn clean install**.
+- Navigate to project directory and Build project by running following command in terminal : **mvn clean install**.
 
 #### Execution
 - To run test class : Right click on test class name or within test class and select **Run ClassName**.
