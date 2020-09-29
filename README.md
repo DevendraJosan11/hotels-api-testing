@@ -1,5 +1,5 @@
-# Tajawal-api-testing-project
-This is RestAssured based api testing project for testing Tajawal API's
+# Tajawal-api-testing-Code-Challenge
+This is RestAssured based api testing sample project for testing Tajawal API's.
 
 ### Steps:
 #### Build
